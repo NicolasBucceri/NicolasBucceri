@@ -1,3 +1,9 @@
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=F7D745&center=true&vCenter=true&width=440&lines=¡Hola%2C+soy+Nicolás+Bucceri!;Full+Stack+Dev+%7C+UX%2FUI+Designer;Apasionado+por+crear+experiencias+digitales" alt="Typing SVG" />
+</h3>
+
+---
+
 # 👋 ¡Hola! Soy Nicolás Bucceri
 
 🎯 Desarrollador y Diseñador Full-Stack apasionado por crear experiencias digitales modernas, funcionales y centradas en el usuario.
@@ -12,10 +18,10 @@ Soy Full-Stack Software Engineer con formación en diseño UX/UI. Me especializo
 
 ## 🧠 Habilidades principales
 
-- 💻 **Frontend:** Vue.js, React, JavaScript, HTML, CSS, Tailwind, Bootstrap
-- 🧰 **Backend:** Python (Flask), Node.js, Firebase, Firestore
-- 🎨 **Diseño:** Figma, Illustrator, Photoshop, principios UX/UI (Nielsen Heuristics)
-- 📦 **Otras:** Git, GitHub, API REST, integración con MercadoPago y WhatsApp API
+- 💻 **Frontend:** Vue.js, React, JavaScript, HTML, CSS, Tailwind, Bootstrap  
+- 🧰 **Backend:** Python (Flask), Node.js, Firebase, Firestore  
+- 🎨 **Diseño:** Figma, Illustrator, Photoshop, principios UX/UI (Nielsen Heuristics)  
+- 📦 **Otras:** Git, GitHub, API REST, integración con MercadoPago y WhatsApp API  
 
 ---
 
@@ -53,13 +59,22 @@ Soy Full-Stack Software Engineer con formación en diseño UX/UI. Me especializo
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasBucceri&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=NicolasBucceri&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBucceri&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=NicolasBucceri&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=NicolasBucceri&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBucceri&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+
+</div>
 
 ---
 
