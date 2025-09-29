@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=F7D745&center=true&vCenter=true&width=440&lines=¡Hola%2C+soy+Nicolás+Bucceri!;Full+Stack+Dev+%7C+UX%2FUI+Designer;Apasionado+por+crear+experiencias+digitales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=F7D745&center=true&vCenter=true&width=440&lines=¡Hola%2C+soy+Nicolás+Bucceri!;Full+Stack+Dev+%7C+UX%2FUI+Designer;Apasionado+por+crear+experiencias+digitales" alt="Typing SVG" />
 </h3>
 
 ---
@@ -31,19 +31,16 @@ Soy Full-Stack Software Engineer con formación en diseño UX/UI. Me especializo
 
 - 🛒 [**AskBuy**](https://github.com/NicolasBucceri) — Plataforma e-commerce modular con dashboard admin, vista usuario y conexión a Mercado Pago, WhatsApp API y Mercado Libre.
 - 🎶 [**Mood Music**](https://github.com/NicolasBucceri) — App PWA que conecta Spotify con el clima actual para recomendar playlists. Hecha en Vue con animaciones fluidas, diseño UX moderno y estructura offline-ready.
-- 🎂 [**Dolce Mattina**](https://github.com/NicolasBucceri) — Landing page para pastelería de alto nivel, con diseño elegante en gris oscuro y dorado, full responsive y animaciones suaves en CSS.
-- ⌚ [**Luxion**](https://github.com/NicolasBucceri) — Landing de reloj de lujo con cambio dinámico de colores, scroll animado, y estilo glassmorphism.
-- 💃 [**Bailo**](https://github.com/NicolasBucceri) — Landing page para producto de baile con galería animada, cambio de imagen por color, efectos visuales y diseño móvil.
 
 ---
 
 ## 🏢 Experiencia real
 
-### 🏗️ Fralo Construcciones
-> Desarrollé el sitio web institucional con WordPress. Me encargué del diseño UX/UI, estructura responsiva, carga de contenido e integración con formularios de contacto personalizados.
+### 🏗️ [Fralo Construcciones](https://grupofraloconstrucciones.com/)
+> Desarrollo del sitio web institucional con WordPress. Diseño UX/UI, estructura responsiva, carga de contenido e integración con formularios de contacto personalizados.
 
-### 🍰 Dolce Mattina
-> Landing desarrollada en HTML, CSS y JavaScript puro para una pastelería. El diseño es moderno y elegante, adaptado a la estética del cliente. Implementé scroll animado, contacto funcional, efecto brillante dorado de fondo y versión responsive mobile.
+### 🍰 [Dolce Mattina](https://dolcemattina.netlify.app/)
+> Landing desarrollada en HTML, CSS y JavaScript puro para una pastelería. Diseño moderno y elegante, adaptado a la estética del cliente. Implementación de scroll animado, contacto funcional, efecto brillante dorado de fondo y versión responsive mobile.
 
 ---
 
