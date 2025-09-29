@@ -42,16 +42,6 @@ Soy Full-Stack Software Engineer con formación en diseño UX/UI. Me especializo
 
 ---
 
-## 📜 Certificados
-
-- 🎓 **Técnico Superior en Diseño y Programación Web** — Da Vinci  
-  [📄 Ver certificado]([https://drive.google.com/file/d/1C4XXXXXXXX/view?usp=drive_link](https://drive.google.com/file/d/1YNfA5NE53XYnaK8g1rXN9ZGbel6olSnO/view?usp=drive_link))
-
-- 🎨 **Curso Avanzado de Diseño UX/UI** — CoderHouse  
-  [📄 Ver certificado]([https://drive.google.com/file/d/1YNfXXXXXXXX/view?usp=drive_link](https://drive.google.com/file/d/1MuugLhzthdO2ZVW7Vkwq2CAdLEgndQmq/view?usp=drive_link))
-
----
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
