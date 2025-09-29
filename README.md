@@ -1,10 +1,8 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=F7D745&center=true&vCenter=true&width=440&lines=¡Hola%2C+soy+Nicolás+Bucceri!;Full+Stack+Dev+%7C+UX%2FUI+Designer;Apasionado+por+crear+experiencias+digitales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=F7D745&center=true&vCenter=true&width=440&lines=¡Hola%2C+soy+Nicolás+Bucceri!;Full+Stack+Dev+%7C+UX%2FUI+Designer" alt="Typing SVG" />
 </h3>
 
 ---
-
-# 👋 ¡Hola! Soy Nicolás Bucceri
 
 🎯 Desarrollador y Diseñador Full-Stack apasionado por crear experiencias digitales modernas, funcionales y centradas en el usuario.
 
